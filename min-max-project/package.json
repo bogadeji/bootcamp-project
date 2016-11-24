@@ -1,0 +1,26 @@
+{
+  "name": "min-max-project",
+  "version": "1.0.0",
+  "description": "Beginner Javascript Project",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "mocha tests/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bogadeji/bootcamp-project.git"
+  },
+  "author": "Adeboga Abigail",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bogadeji/bootcamp-project/issues"
+  },
+  "homepage": "https://github.com/bogadeji/bootcamp-project#readme",
+  "dependencies": {
+    "chai": "^3.5.0",
+    "expect": "^1.20.2"
+  }
+}
